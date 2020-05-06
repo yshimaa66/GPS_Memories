@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "103271035505",
+    "firebase_url": "https://gps-memories.firebaseio.com",
+    "project_id": "gps-memories",
+    "storage_bucket": "gps-memories.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103271035505:android:436485c6fcd630d31aa1d0",
+        "android_client_info": {
+          "package_name": "com.example.gps_memories"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103271035505-ka5al6rcc0k6mdbjf91fp8a5nradbm56.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDmZxsdD0mWW45FcV-WhDnayew0BI92fA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103271035505-ka5al6rcc0k6mdbjf91fp8a5nradbm56.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
